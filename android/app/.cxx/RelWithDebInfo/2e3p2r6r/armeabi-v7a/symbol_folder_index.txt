@@ -1,0 +1,1 @@
+/home/kpmidhlaj/StudioProjects/TodoAppUsingFlutterBloc/build/app/intermediates/cxx/RelWithDebInfo/2e3p2r6r/obj/armeabi-v7a

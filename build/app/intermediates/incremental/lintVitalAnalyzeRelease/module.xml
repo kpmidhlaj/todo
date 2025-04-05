@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/kpmidhlaj/StudioProjects/TodoAppUsingFlutterBloc/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    agpVersion="8.3.2"
+    buildFolder="/home/kpmidhlaj/StudioProjects/TodoAppUsingFlutterBloc/build/app"
+    bootClassPath="/home/kpmidhlaj/Android/Sdk/platforms/android-35/android.jar:/home/kpmidhlaj/Android/Sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-35">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
